@@ -83,8 +83,14 @@ Final — make test-integration
 
 
 <img width="679" height="452" alt="test 1" src="https://github.com/user-attachments/assets/0e210c8d-9af3-4de8-a9d0-181cc7540a0f" />
+
+
 <img width="610" height="460" alt="test 2" src="https://github.com/user-attachments/assets/6d92e76a-59a5-4b03-9f6e-dfe05915e3ec" />
+
+
 <img width="703" height="295" alt="test 3" src="https://github.com/user-attachments/assets/012bf791-6dba-437d-9e14-10a9561c0815" />
+
+
 
 Phase 5 — Branching and Checkout
 
